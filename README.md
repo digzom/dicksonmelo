@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there :alien:
 
-<!--
-**dicksonmelo/dicksonmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As you can see, my name is Dickson Melo.
 
-Here are some ideas to get you started:
+Country boy living in the big city, I'm currently developing a Store Website on my own. Despite a short time of study, I am already making great strides. News coming soon in my Github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying a Javascript stack with NodeJS for backend and ReactJS for frontend. In between, I try to improve my English, read about machine learning and IT careers.
+
+I seek to colaborate with big or small fullstack projects that envolves Javascript and cool things.
+
+Games, rock'n'roll and technology lover.
+
+Oh, you want to contact me? Of course! Find me at:
+twitter: twitter.com/digzom
+linkedin: linkedin.com/in/dicksonmelo
+gmail: dicksonmelo@gmail.com
