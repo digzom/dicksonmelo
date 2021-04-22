@@ -2,11 +2,13 @@
 
 As you can see, my name is Dickson Melo.
 
-Country boy living in the big city, I'm currently developing a Store Website on my own. Despite a short time of study, I am already making great strides. News coming soon in my Github.
+Country boy living in the big city, I'm currently working with ReactJS + NextJS + Firebase. 
 
-I'm currently studying a Javascript stack with NodeJS for backend and ReactJS for frontend. In between, I try to improve my English, read about machine learning and IT careers.
+Trying to create cool things on my own.
 
-I seek to colaborate with big or small fullstack projects that envolves Javascript and cool things.
+I'm currently studying ReactJS and and flirting with NodeJS.
+
+I seek to colaborate with big or small fullstack projects that envolves Javascript.
 
 Games, rock'n'roll and technology lover.
 
